@@ -39,3 +39,11 @@ Attribution - You must give appropriate credit, provide a link to the license, a
 ShareAlike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+## Schematic and 3D Render
+
+Mini Econet Module - Schematic:
+![MiniEconetModuleV2bSchematic](https://github.com/user-attachments/assets/817affd1-aa79-4c6b-aef0-8e1f5725b9ad)
+
+Mini Econet Module - 3D Render:
+![MiniEconetModuleV2b3DRender](https://github.com/user-attachments/assets/2a483cfa-fdef-4d8f-b5f5-23dfd6931a94)
